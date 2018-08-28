@@ -32,6 +32,7 @@
 
 ```
 GitHub exercise
+-Caroline Kaufman 
 
 1. Go to the `week 2` repository on the class GitHub page
 2. Click the `fork` button in the upper-right of the page
