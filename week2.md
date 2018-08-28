@@ -38,6 +38,7 @@ GitHub exercise
 3. Go to your newly forked copy of the repository
 4. Add your name here:
 	- Jeremy
+	- Eric
 	- Jacob
 	- Cameron
 	- Megan
