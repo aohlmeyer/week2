@@ -37,6 +37,7 @@ GitHub exercise
 2. Click the `fork` button in the upper-right of the page
 3. Go to your newly forked copy of the repository
 4. Add your name here:
+	- Adora
 	- Willie Hurst
 	- Jeremy
 	- Zara
