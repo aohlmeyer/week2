@@ -39,6 +39,7 @@ GitHub exercise
 4. Add your name here:
 	- Willie Hurst
 	- Jeremy
+	- Zara
 	- Gentry
 	- Eric
 	- Jacob
