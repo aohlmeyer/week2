@@ -40,6 +40,7 @@ GitHub exercise
 	- Adora
 	- Willie Hurst
 	- Jeremy
+	- Ruth
 	- Zara
 	- Gentry
 	- Eric
