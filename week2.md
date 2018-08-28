@@ -37,7 +37,7 @@ GitHub exercise
 2. Click the `fork` button in the upper-right of the page
 3. Go to your newly forked copy of the repository
 4. Add your name here:
-	- Jeremy
+	- Jeremy, Cameron
 5. Create a pull request
 6. Add a commit message to your request to indicate the change you made
 7. Submit your pull request
