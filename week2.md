@@ -39,6 +39,8 @@ GitHub exercise
 4. Add your name here:
 	- Jeremy
 	- Ethan
+	- Devin
+	- Charis
 5. Create a pull request
 6. Add a commit message to your request to indicate the change you made
 7. Submit your pull request
@@ -131,7 +133,7 @@ Filesystem Exercise
 
 ```
 First Command-Line Exercise (add commands run as notes as you go)
-
+-Lane H. Bazar
 1. Change directories to the Desktop
 2. List the visible contents of the directory
 3. Now list _all_ contents of the directory (including hidden files and folders)
