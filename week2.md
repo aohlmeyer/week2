@@ -132,7 +132,7 @@ Filesystem Exercise
 
 ```
 First Command-Line Exercise (add commands run as notes as you go)
-
+-Lane H. Bazar
 1. Change directories to the Desktop
 2. List the visible contents of the directory
 3. Now list _all_ contents of the directory (including hidden files and folders)
