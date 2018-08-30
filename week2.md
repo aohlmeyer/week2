@@ -52,6 +52,7 @@ GitHub exercise
 	- Charis
 	- Lane H. Bazar
 	- Caroline Kaufman 
+	- Adam
 5. Create a pull request
 6. Add a commit message to your request to indicate the change you made
 7. Submit your pull request
