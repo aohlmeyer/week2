@@ -1,0 +1,30 @@
+  211  cat folderContents.txt 
+  212  cd ~/Desktop
+  213  mkdir Biology
+  214  cd Biology
+  215  touch ReadMe.txt
+  216  mkdir CellBiology
+  217  cd CellBiology
+  218  touch ImportantCellBioTopics.txt
+  219  cd ..
+  220  mkdir Ecology
+  221  cd Ecology/
+  222  touch ImportantEcolTopics.txt
+  223  cd ..
+  224  mkdir Evolution
+  225  cd Evolution/
+  226  touch ImportantEcolTopics.txt
+  227  mkdir Phylogenetics
+  228  cd /~/Desktop/Biology/Evolution/Phylogenetics
+  229  cd /home/compbio/Desktop/Biology/Evolution/Phylogenetics/
+  230  nano
+  231  cd ~/Desktop/Biology/
+  232  ls -l
+  233  ls -l Biology > BioContents.txt
+  234  ls -l ./Biology/ > BioContents.txt
+  235  ls -l ~/Desktop/Biology/ >BioContents.txt
+  236  rm -r CellBiology/
+  237  history | tail -n  35 >>myCommands.txt
+  238  rm myCommands.txt 
+  239  history | tail -n 29 ..myCommands.txt
+  240  history | tail -n 30 >>myCommands.txt
